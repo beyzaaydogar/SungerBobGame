@@ -12,6 +12,7 @@
 		35B06D881F40EBF10005A8EF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 35B06D861F40EBF10005A8EF /* Main.storyboard */; };
 		35B06D8A1F40EBF10005A8EF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 35B06D891F40EBF10005A8EF /* Assets.xcassets */; };
 		35B06D8D1F40EBF10005A8EF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 35B06D8B1F40EBF10005A8EF /* LaunchScreen.storyboard */; };
+		35B06D951F40ED900005A8EF /* sunger.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 35B06D941F40EBFD0005A8EF /* sunger.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		35B06D891F40EBF10005A8EF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		35B06D8C1F40EBF10005A8EF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		35B06D8E1F40EBF10005A8EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		35B06D941F40EBFD0005A8EF /* sunger.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sunger.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		35B06D811F40EBF10005A8EF /* SungerBobGame */ = {
 			isa = PBXGroup;
 			children = (
+				35B06D941F40EBFD0005A8EF /* sunger.jpg */,
 				35B06D821F40EBF10005A8EF /* AppDelegate.swift */,
 				35B06D841F40EBF10005A8EF /* ViewController.swift */,
 				35B06D861F40EBF10005A8EF /* Main.storyboard */,
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				35B06D8D1F40EBF10005A8EF /* LaunchScreen.storyboard in Resources */,
+				35B06D951F40ED900005A8EF /* sunger.jpg in Resources */,
 				35B06D8A1F40EBF10005A8EF /* Assets.xcassets in Resources */,
 				35B06D881F40EBF10005A8EF /* Main.storyboard in Resources */,
 			);
